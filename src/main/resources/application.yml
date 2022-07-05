@@ -1,0 +1,12 @@
+server:
+  port: 8008
+  servlet:
+    context-path: /myboot
+
+spring:
+  mvc:
+    view:
+      # 前缀  /webapp目录
+      prefix: /
+      # 后缀
+      suffix: .jsp

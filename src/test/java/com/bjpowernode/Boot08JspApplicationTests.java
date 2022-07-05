@@ -8,6 +8,7 @@ class Boot08JspApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
